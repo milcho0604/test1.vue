@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "우유",
+      "author": "김창현",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "title": "조리퐁",
+      "author": "김창현",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "title": "맥주",
+      "author": "김창현",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "title": "로미오",
+      "author": "김창현",
+      "price": 66000
+    },
+    {
+      "id": 5,
+      "title": "김창현",
+      "author": "?뿡냐린",
+      "price": 0
+    }
+  ]
+}
